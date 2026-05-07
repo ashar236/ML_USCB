@@ -47,3 +47,8 @@ pip install -r requirements.txt
 **Conclusion**
 
 This project demonstrates a compact, reproducible workflow for both supervised classification and unsupervised segmentation on census data. The notebook contains code, plots, and observations that support model selection and business-facing recommendations for targeting higher-income segments.
+
+**References**
+1. [Logistic Regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
+2. [KMeans Clustering](https://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_silhouette_analysis.html)
+3. Geeksforgeeks, Kaggle, ChatGPT. 
